@@ -26,8 +26,7 @@ if(x=="1"){xxx="download.html"}
 if(x=="2"){xxx="safe-link-converter.html"}
 if(x=="3"){xxx="direct-download-link.html"}
 if(x=="4"){xxx="download.html"}
-if(x=="5"){xxx="download.html"}a_to_ve[i].href="https://directtosafelink.blogspot.com/p/generate.html?url"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
-
+if(x=="5"){xxx="download.html"}a_to_ve[i].href="https://directtosafelink.blogspot.com/2018/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
